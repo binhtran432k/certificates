@@ -5,6 +5,42 @@
 			"title": "The Rookies",
 			"subtitle": "NashTech",
 			"timeline": "2022"
+		},
+		{
+			"url": "https://freecodecamp.org/certification/binhtran432k/javascript-algorithms-and-data-structures",
+			"title": "JavaScript Algorithms and Data Structures",
+			"subtitle": "freeCodeCamp",
+			"timeline": "2023"
+		},
+		{
+			"url": "https://freecodecamp.org/certification/binhtran432k/responsive-web-design",
+			"title": "Responsive Web Design",
+			"subtitle": "freeCodeCamp",
+			"timeline": "2021"
+		},
+		{
+			"url": "https://www.hackerrank.com/certificates/245f7e25aa3c",
+			"title": "SQL (Advanced)",
+			"subtitle": "HackerRank",
+			"timeline": "2022"
+		},
+		{
+			"url": "https://www.hackerrank.com/certificates/275869878d38",
+			"title": "SQL (Intermediate)",
+			"subtitle": "HackerRank",
+			"timeline": "2022"
+		},
+		{
+			"url": "https://codelearn.io/certification/n2i0ywzi",
+			"title": "Java SE Programming Essentials",
+			"subtitle": "CodeLearn.io",
+			"timeline": "2021"
+		},
+		{
+			"url": "https://codelearn.io/certification/yzljmjm3",
+			"title": "Java Basics - FPT Software Academy",
+			"subtitle": "CodeLearn.io",
+			"timeline": "2021"
 		}
 	]
 }
